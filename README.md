@@ -1,1 +1,2 @@
-# python-exercises-flex-02
+# Python Exercises
+test shortcut
