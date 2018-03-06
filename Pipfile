@@ -1,0 +1,29 @@
+[[source]]
+
+verify_ssl = true
+name = "pypi"
+url = "https://pypi.python.org/simple"
+
+
+[packages]
+
+ipython = "*"
+tornado = "*"
+
+
+[dev-packages]
+
+if age >= 21:
+  print("you get a beer")
+  
+  count = 0
+while count < 10:
+  count += 1
+  print("The count is", count)
+print("Done")
+
+
+maya = ramro
+print maya
+
+
